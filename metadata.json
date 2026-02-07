@@ -1,0 +1,5 @@
+{
+  "description": "Vayu Container: A universal rich-media builder. Bundle multiple text sections, photos, and videos into a single custom-named package (.docx alternative). Optimized for full cross-platform compatibility across WPS Office, Windows, macOS, Android, HarmonyOS, and iOS.",
+  "requestFramePermissions": [],
+  "name": "Vayu Universal Container Builder"
+}
