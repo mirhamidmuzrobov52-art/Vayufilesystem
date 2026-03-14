@@ -1,5 +1,5 @@
 {
-  "description": "Vayu Container: A universal rich-media builder. Bundle multiple text sections, photos, and videos into a single custom-named package (.docx alternative). Optimized for full cross-platform compatibility across WPS Office, Windows, macOS, Android, HarmonyOS, and iOS.",
+  "description": "KATM: A universal rich-media builder under the ARXUN brand. Bundle multiple text sections, photos, videos, and PDFs into a single proprietary package. Features built-in PDF slideshow presentation mode.",
   "requestFramePermissions": [],
-  "name": "Vayu Universal Container Builder"
+  "name": "KATM"
 }
